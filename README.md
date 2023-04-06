@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Professir&show_icons=true&count_private=true&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=400" alt="professir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Professir&layout=compact&langs_count=10&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=340" alt="professir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Professir&layout=compact&langs_count=10&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=400" alt="professir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=professir&" alt="professir" /></p>
