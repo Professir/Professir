@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Tailwind-Css](https://github.com/Professir/Tailwind-practice)
 
-- 🌱 I’m currently learning **Opencv, Cpp, Javascript, java**
+- 🌱 I’m currently learning **Opencv, Cpp, Frontend dev, java**
 
 - 💬 Ask me about **C problems, Tailwindcss**
 
