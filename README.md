@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C problems, Tailwindcss**
 
-- 📫 How to reach me **safakkel1903@gmail.com**
+- 📫 How to reach me **safakkel.dev@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
